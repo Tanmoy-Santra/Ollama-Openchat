@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ollama-Gemma:2b</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.6/markdown-it.min.css" />
+    <link rel="icon" type="image/x-icon" href="Asstes\images (1).png">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="#" class="logo"><img src="Asstes\logo.png" alt="Logo"></a>           
+        </div>
+    </nav>
+    <div class="chat-container">
+        <div class="chat-messages" id="chat-messages">
+            <div class="initial-image" id="initial-image">
+                <img src="Asstes\bg.webp" alt="Welcome Image">
+            </div>
+        </div>
+        <div class="chat-input">
+            <textarea id="prompt" rows="1" placeholder="Enter your message..."></textarea>
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script src="main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.6/markdown-it.min.js"></script>
+</body>
+</html>

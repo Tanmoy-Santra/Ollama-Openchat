@@ -55,3 +55,14 @@ Ollama supports a variety of models that can be downloaded from [ollama.com/libr
 | Solar              | 10.7B      | 6.1GB  | `ollama run solar`             |
 
 These sizes and parameters are approximate and may vary slightly based on specific versions or configurations. For more models and detailed instructions on how to download and use them, please visit [ollama.com/library](https://ollama.com/library).
+
+
+## Ollama Model Interface
+
+
+![WhatsApp Image 2024-06-24 at 12 53 43_5e34e111](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/b86fd8a3-7d16-4369-b3d7-6c4f69e0fe82)
+
+
+
+![WhatsApp Image 2024-06-24 at 12 57 01_b5d367c9](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/2ff59c8c-6b71-4150-9b89-0c3d6d6e585d)
+

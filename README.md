@@ -33,17 +33,25 @@
 - `rm`          Remove a model
 - `help`        Help about any command
 
-### Ollama Model Types and Sizes
+## Ollama Model Library
 
-| Model Type | Size    |
-|------------|---------|
-| Lamma2     | 500MB   |
-| Mystral    | 750MB   |
-| Gemma      | 1GB     |
-| Bolton     | 900MB   |
-| Vesta      | 600MB   |
-| Kairo      | 1.2GB   |
-| Zephyr     | 800MB   |
-| Neptune    | 950MB   |
-| Orion      | 700MB   |
-| Eclipse    | 1.1GB   |
+Ollama supports a variety of models that can be downloaded from [ollama.com/library](https://ollama.com/library). Here are some example models along with their parameters, sizes, and download commands:
+
+| Model              | Parameters | Size   | Download Command               |
+|--------------------|------------|--------|--------------------------------|
+| Llama 3            | 8B         | 4.7GB  | `ollama run llama3`            |
+| Llama 3            | 70B        | 40GB   | `ollama run llama3:70b`        |
+| Phi 3 Mini         | 3.8B       | 2.3GB  | `ollama run phi3`              |
+| Phi 3 Medium       | 14B        | 7.9GB  | `ollama run phi3:medium`       |
+| Gemma              | 2B         | 1.4GB  | `ollama run gemma:2b`          |
+| Gemma              | 7B         | 4.8GB  | `ollama run gemma:7b`          |
+| Mistral            | 7B         | 4.1GB  | `ollama run mistral`           |
+| Moondream 2        | 1.4B       | 829MB  | `ollama run moondream`         |
+| Neural Chat        | 7B         | 4.1GB  | `ollama run neural-chat`       |
+| Starling           | 7B         | 4.1GB  | `ollama run starling-lm`       |
+| Code Llama         | 7B         | 3.8GB  | `ollama run codellama`         |
+| Llama 2 Uncensored | 7B         | 3.8GB  | `ollama run llama2-uncensored` |
+| LLaVA              | 7B         | 4.5GB  | `ollama run llava`             |
+| Solar              | 10.7B      | 6.1GB  | `ollama run solar`             |
+
+These sizes and parameters are approximate and may vary slightly based on specific versions or configurations. For more models and detailed instructions on how to download and use them, please visit [ollama.com/library](https://ollama.com/library).

@@ -1,5 +1,9 @@
 # Ollama Installation Guide
 
+
+![EvnqsXn__400x400](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/1d5070cb-459c-4720-8fa4-36072aac941e)
+
+
 ## Step 1: Download Ollama
 1. Open your web browser and navigate to [ollama.com](https://ollama.com)
 2. Click on the 'Download' button.

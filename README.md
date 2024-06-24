@@ -32,3 +32,18 @@
 - `cp`          Copy a model
 - `rm`          Remove a model
 - `help`        Help about any command
+
+### Ollama Model Types and Sizes
+
+| Model Type | Size    |
+|------------|---------|
+| Lamma2     | 500MB   |
+| Mystral    | 750MB   |
+| Gemma      | 1GB     |
+| Bolton     | 900MB   |
+| Vesta      | 600MB   |
+| Kairo      | 1.2GB   |
+| Zephyr     | 800MB   |
+| Neptune    | 950MB   |
+| Orion      | 700MB   |
+| Eclipse    | 1.1GB   |

@@ -14,8 +14,11 @@
 ## Step 3: Using PowerShell with Ollama
 1. Open PowerShell (Command Line can also be used).
 2. Run the command: `ollama help`. This displays available commands in Ollama.
+   
 
-![Ollama PowerShell Commands](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/2728448c-4959-4255-8955-75882c2fd528)
+![WhatsApp Image 2024-06-24 at 12 44 37_ccff8a84](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/26637f30-0aa6-4406-b78d-50afca6a6c8d)
+
+
 
 ### Available Commands
 - `serve`       Start Ollama

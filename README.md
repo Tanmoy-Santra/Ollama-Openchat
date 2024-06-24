@@ -16,3 +16,16 @@
 2. Run the command: `ollama help`. This displays available commands in Ollama.
 
 ![Ollama PowerShell Commands](https://github.com/Tanmoy-Santra/Ollama-Openchat/assets/123796923/2728448c-4959-4255-8955-75882c2fd528)
+
+### Available Commands
+- `serve`       Start Ollama
+- `create`      Create a model from a Modelfile
+- `show`        Show information for a model
+- `run`         Run a model
+- `pull`        Pull a model from a registry
+- `push`        Push a model to a registry
+- `list`        List models
+- `ps`          List running models
+- `cp`          Copy a model
+- `rm`          Remove a model
+- `help`        Help about any command
